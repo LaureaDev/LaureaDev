@@ -9,7 +9,7 @@
 
 - 📫 Gmail **nataluttilaureano@gmail.com**
 
-- 📄 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝: HTML, CSS, JavaScript, React JS; 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝: MySQL, Node.js, MongoDB, MariaDB; 𝐔𝐗/𝐔𝐈: basic concepts. [https://lauredev.github.io/Portfolio/](https://lauredev.github.io/Portfolio/)
+- 📄 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝: HTML, CSS, JavaScript, React JS; 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝: MySQL, Node.js, MongoDB, MariaDB; 𝐔𝐗/𝐔𝐈: basic concepts. [https://laureadev.github.io/Portfolio/](https://laureadev.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
