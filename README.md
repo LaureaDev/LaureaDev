@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Laureano Natalutti</h1>
 <h3 align="center">🚀 Currently seeking opportunities as a Junior Full-Stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laureanodev&label=Profile%20views&color=0e75b6&style=flat" alt="laureanodev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laureadev&label=Profile%20views&color=0e75b6&style=flat" alt="laureadev" /> </p>
 
-- 💫 I participate in a Digital Marketing Agency [Digital Social Connect](https://www.digitalsocialconnect.com/)
+- I participate in a Digital Marketing Agency [Digital Social Connect](https://www.digitalsocialconnect.com/)
 
 - 👨‍💻 My projects and my Curriculum Vitaen are available at [https://laurenodev.github.io/Portfolio/](https://laurenodev.github.io/Portfolio/)
 
 - 📫 Gmail **nataluttilaureano@gmail.com**
 
-- 📄 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝:  HTML, CSS, JavaScript, React; 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝: MySQL, Node.js, MongoDB, MariaDB; 𝐔𝐗/𝐔𝐈. [https://laurenodev.github.io/Portfolio/](https://laurenodev.github.io/Portfolio/)
+- 📄 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝: HTML, CSS, JavaScript, React; 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝: MySQL, Node.js, MongoDB, MariaDB; 𝐔𝐗/𝐔𝐈: basic concepts. [https://laurenodev.github.io/Portfolio/](https://laurenodev.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
