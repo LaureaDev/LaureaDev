@@ -5,7 +5,7 @@
 
 - I participate in a Digital Marketing Agency [Digital Social Connect](https://www.digitalsocialconnect.com/)
 
-- 👨‍💻 My projects and my Curriculum Vitaen are available at [https://laurenodev.github.io/Portfolio/](https://laurenodev.github.io/Portfolio/)
+- 👨‍💻 My projects and my Curriculum Vitaen are available at [https://laureadev.github.io/Portfolio/](https://laureadev.github.io/Portfolio/)
 
 - 📫 Gmail **nataluttilaureano@gmail.com**
 
